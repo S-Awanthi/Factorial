@@ -1,2 +1,2 @@
 # Factorial
-This is a Java code to find the factoril of a number using both recursice and iteration methods
+This is a Java code to find the factorial of a number using both recursice and iteration methods
